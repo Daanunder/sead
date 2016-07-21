@@ -1,6 +1,7 @@
 body
 {
 background: #383936;
+color:white;
 }
 
 header .row, footer .row {
@@ -26,6 +27,7 @@ header p {
 .container { width: 90%; margin: 0 auto 0 auto; }
 
 .jumbotron {
+    color: #383936;
 }
 
 .fixed-ratio-size {
@@ -37,3 +39,19 @@ header p {
 .navbar-brand {
 
 }
+
+.img-responsive{
+    margin:0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
