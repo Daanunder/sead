@@ -1,4 +1,4 @@
-body
+body 
 {
 background: #383936;
 color:white;
@@ -44,14 +44,13 @@ header p {
     margin:0 auto;
 }
 
+.panel-body {
+    color: #383936;
+}
 
+#colrow {
+    padding-top: 10px;
+    background-color: #363928
+}
 
-
-
-
-
-
-
-
-
-
+#flowchart  
