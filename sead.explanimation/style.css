@@ -1,19 +1,51 @@
 .container {
-  position: top;
   width: 100%;;
-  height: 100px;
+  height: 180px;
   background-color: #383936
+  border: 10px;
 }
 .jumbotron {
   width: 100%;
-  height: 300px;
-  background-color: #383941
+  height: 10%;
+  background-color: #383950
 }
-.header {
-
+.h1 {
+  position: center;
+  border-style: dashed;
+  border-color: #383936
 }
 .headerLogo {
+  position: left;
+  display: inline-block;
+  padding: 5px;
+  margin: 5px;
+}
+
+.right {
+  position: left;
+  display: inline-block;
+}
+
+.center {
+position: middle;
+display: inline-block;}
+
+.right {
+  position: right;
+  display: inline-block;
+}
+
+#actgrow {
+  display: inline-flex;
   position: absolute;
-  top: 20px;
-  left: 30px;
+}
+
+#dinnermeet {
+  display: inline-flex;
+  position: absolute;
+}
+
+#startproject {
+  display: inline-flex;
+  position: absolute;
 }
