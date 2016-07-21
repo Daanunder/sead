@@ -1,23 +1,19 @@
 .container {
-    position: top;
-    width: 100%;;
-    height: 100px;
-    background-color: #383936
+  position: top;
+  width: 100%;;
+  height: 100px;
+  background-color: #383936
 }
-
 .jumbotron {
-    width: 100%;
-    height: 300px;
-    background-color: #383941
+  width: 100%;
+  height: 300px;
+  background-color: #383941
 }
-
 .header {
 
 }
-
 .headerLogo {
-    position: left;
-    width: auto;
-    height: auto;
-    left: 300px;
+  position: absolute;
+  top: 20px;
+  left: 30px;
 }
